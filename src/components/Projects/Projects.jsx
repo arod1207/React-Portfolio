@@ -25,13 +25,19 @@ function Projects() {
                                 </h4>
                                 <div className="row">
                                     <div className="col-sm-6">
-                                        <a href="your link here">
-                                            <i class="fab fa-github fa-3x"></i>
+                                        <a
+                                            href="https://github.com/arod1207/Project1"
+                                            target="_blank"
+                                        >
+                                            <i class="fab fa-github fa-2x"></i>
                                         </a>
                                     </div>
                                     <div className="col-sm-6">
-                                        <a href="your link here">
-                                            <i class="fas fa-link fa-3x"></i>
+                                        <a
+                                            href="https://arod1207.github.io/Project1/"
+                                            target="_blank"
+                                        >
+                                            <i class="fas fa-link fa-2x"></i>
                                         </a>
                                     </div>
                                 </div>
@@ -51,13 +57,19 @@ function Projects() {
                                 </h4>
                                 <div className="row">
                                     <div className="col-sm-6">
-                                        <a href="your link here">
-                                            <i class="fab fa-github fa-3x"></i>
+                                        <a
+                                            href="https://github.com/arod1207/Burger"
+                                            target="_blank"
+                                        >
+                                            <i class="fab fa-github fa-2x"></i>
                                         </a>
                                     </div>
                                     <div className="col-sm-6">
-                                        <a href="your link here">
-                                            <i class="fas fa-link fa-3x"></i>
+                                        <a
+                                            href="https://guarded-scrubland-78137.herokuapp.com/"
+                                            target="_blank"
+                                        >
+                                            <i class="fas fa-link fa-2x"></i>
                                         </a>
                                     </div>
                                 </div>
@@ -77,13 +89,19 @@ function Projects() {
                                 </h4>
                                 <div className="row">
                                     <div className="col-sm-6">
-                                        <a href="your link here">
-                                            <i class="fab fa-github fa-3x"></i>
+                                        <a
+                                            href="https://github.com/arod1207/HW-10-Template-Engine-Employee"
+                                            target="_blank"
+                                        >
+                                            <i class="fab fa-github fa-2x"></i>
                                         </a>
                                     </div>
                                     <div className="col-sm-6">
-                                        <a href="your link here">
-                                            <i class="fas fa-link fa-3x"></i>
+                                        <a
+                                            href="https://github.com/arod1207/HW-10-Template-Engine-Employee"
+                                            target="_blank"
+                                        >
+                                            <i class="fas fa-link fa-2x"></i>
                                         </a>
                                     </div>
                                 </div>
@@ -105,13 +123,19 @@ function Projects() {
                                 </h4>
                                 <div className="row">
                                     <div className="col-sm-6">
-                                        <a href="your link here">
-                                            <i class="fab fa-github fa-3x"></i>
+                                        <a
+                                            href="https://github.com/arod1207/HW-5-Work-Day-Scheduler"
+                                            target="_blank"
+                                        >
+                                            <i class="fab fa-github fa-2x"></i>
                                         </a>
                                     </div>
                                     <div className="col-sm-6">
-                                        <a href="your link here">
-                                            <i class="fas fa-link fa-3x"></i>
+                                        <a
+                                            href="https://arod1207.github.io/HW-5-Work-Day-Scheduler/"
+                                            target="_blank"
+                                        >
+                                            <i class="fas fa-link fa-2x"></i>
                                         </a>
                                     </div>
                                 </div>
@@ -129,13 +153,19 @@ function Projects() {
                                 <h4 className="card-title">Moodifi</h4>
                                 <div className="row">
                                     <div className="col-sm-6">
-                                        <a href="your link here">
-                                            <i class="fab fa-github fa-3x"></i>
+                                        <a
+                                            href="https://github.com/arod1207/Moodifi"
+                                            target="_blank"
+                                        >
+                                            <i class="fab fa-github fa-2x"></i>
                                         </a>
                                     </div>
                                     <div className="col-sm-6">
-                                        <a href="your link here">
-                                            <i class="fas fa-link fa-3x"></i>
+                                        <a
+                                            href="https://radiant-falls-09995.herokuapp.com/"
+                                            target="_blank"
+                                        >
+                                            <i class="fas fa-link fa-2x"></i>
                                         </a>
                                     </div>
                                 </div>
@@ -155,13 +185,19 @@ function Projects() {
                                 </h4>
                                 <div className="row">
                                     <div className="col-sm-6">
-                                        <a href="your link here">
-                                            <i class="fab fa-github fa-3x"></i>
+                                        <a
+                                            href="https://github.com/arod1207/HW-6-Weather-Dashboard"
+                                            target="_blank"
+                                        >
+                                            <i class="fab fa-github fa-2x"></i>
                                         </a>
                                     </div>
                                     <div className="col-sm-6">
-                                        <a href="your link here">
-                                            <i class="fas fa-link fa-3x"></i>
+                                        <a
+                                            href="https://arod1207.github.io/HW-6-Weather-Dashboard/"
+                                            target="_blank"
+                                        >
+                                            <i class="fas fa-link fa-2x"></i>
                                         </a>
                                     </div>
                                 </div>
