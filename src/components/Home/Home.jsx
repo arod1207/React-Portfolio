@@ -12,7 +12,7 @@ function Home() {
                     <div className="col-md ">
                         <img
                             src={myImage}
-                            className="myImage"
+                            className="myImage img-responsive"
                             alt="Armando Rodriguez"
                         />
                     </div>
