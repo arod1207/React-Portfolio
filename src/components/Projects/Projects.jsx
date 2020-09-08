@@ -20,13 +20,21 @@ function Projects() {
                                 alt="..."
                             />
                             <div className="card-body">
-                                <h5 className="card-title">
+                                <h4 className="card-title">
                                     I'll Take A Corona, Hold The Corona
-                                </h5>
-
-                                <a href="#" className="btn btn-primary">
-                                    Go somewhere
-                                </a>
+                                </h4>
+                                <div className="row">
+                                    <div className="col-sm-6">
+                                        <a href="your link here">
+                                            <i class="fab fa-github fa-3x"></i>
+                                        </a>
+                                    </div>
+                                    <div className="col-sm-6">
+                                        <a href="your link here">
+                                            <i class="fas fa-link fa-3x"></i>
+                                        </a>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -38,13 +46,21 @@ function Projects() {
                                 alt="..."
                             />
                             <div className="card-body">
-                                <h5 className="card-title">
+                                <h4 className="card-title">
                                     Welcome to Good Burger
-                                </h5>
-
-                                <a href="#" className="btn btn-primary">
-                                    Go somewhere
-                                </a>
+                                </h4>
+                                <div className="row">
+                                    <div className="col-sm-6">
+                                        <a href="your link here">
+                                            <i class="fab fa-github fa-3x"></i>
+                                        </a>
+                                    </div>
+                                    <div className="col-sm-6">
+                                        <a href="your link here">
+                                            <i class="fas fa-link fa-3x"></i>
+                                        </a>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -56,13 +72,21 @@ function Projects() {
                                 alt="..."
                             />
                             <div className="card-body">
-                                <h5 className="card-title">
+                                <h4 className="card-title">
                                     Node.js Team Generator
-                                </h5>
-
-                                <a href="#" className="btn btn-primary">
-                                    Go somewhere
-                                </a>
+                                </h4>
+                                <div className="row">
+                                    <div className="col-sm-6">
+                                        <a href="your link here">
+                                            <i class="fab fa-github fa-3x"></i>
+                                        </a>
+                                    </div>
+                                    <div className="col-sm-6">
+                                        <a href="your link here">
+                                            <i class="fas fa-link fa-3x"></i>
+                                        </a>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -76,13 +100,21 @@ function Projects() {
                                 alt="..."
                             />
                             <div className="card-body">
-                                <h5 className="card-title">
+                                <h4 className="card-title">
                                     Work Day Scheduler
-                                </h5>
-
-                                <a href="#" className="btn btn-primary">
-                                    Go somewhere
-                                </a>
+                                </h4>
+                                <div className="row">
+                                    <div className="col-sm-6">
+                                        <a href="your link here">
+                                            <i class="fab fa-github fa-3x"></i>
+                                        </a>
+                                    </div>
+                                    <div className="col-sm-6">
+                                        <a href="your link here">
+                                            <i class="fas fa-link fa-3x"></i>
+                                        </a>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -94,11 +126,19 @@ function Projects() {
                                 alt="..."
                             />
                             <div className="card-body">
-                                <h5 className="card-title">Moodifi</h5>
-
-                                <a href="#" className="btn btn-primary">
-                                    Go somewhere
-                                </a>
+                                <h4 className="card-title">Moodifi</h4>
+                                <div className="row">
+                                    <div className="col-sm-6">
+                                        <a href="your link here">
+                                            <i class="fab fa-github fa-3x"></i>
+                                        </a>
+                                    </div>
+                                    <div className="col-sm-6">
+                                        <a href="your link here">
+                                            <i class="fas fa-link fa-3x"></i>
+                                        </a>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -110,13 +150,21 @@ function Projects() {
                                 alt="..."
                             />
                             <div className="card-body">
-                                <h5 className="card-title">
+                                <h4 className="card-title">
                                     Weather Dashboard
-                                </h5>
-
-                                <a href="#" className="btn btn-primary">
-                                    Go somewhere
-                                </a>
+                                </h4>
+                                <div className="row">
+                                    <div className="col-sm-6">
+                                        <a href="your link here">
+                                            <i class="fab fa-github fa-3x"></i>
+                                        </a>
+                                    </div>
+                                    <div className="col-sm-6">
+                                        <a href="your link here">
+                                            <i class="fas fa-link fa-3x"></i>
+                                        </a>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
